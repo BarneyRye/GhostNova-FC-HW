@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=SD_DET Pin=IC2-33
+Added Member To Class: ClassName=FC_Sheet1 Member=Component IC2 STM32F722RET6

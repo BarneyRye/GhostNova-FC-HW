@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=HSE_IN Pin=IC2-6
+Added Component: Designator=R?(RESC0402(1005)_L)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HSE_IN Pin=C15-2
+Added Pin To Net: NetName=NetC16_2 Pin=R?-1
+Added Pin To Net: NetName=HSE_IN Pin=Y1-1
+Added Pin To Net: NetName=HSE_OUT Pin=IC2-6
+Added Pin To Net: NetName=HSE_OUT Pin=R?-2
+Added Net: Name=HSE_OUT
+Added Member To Class: ClassName=FC_Sheet1 Member=Component J26 TF-01A
+Added Member To Class: ClassName=FC_Sheet1 Member=Component R? Resistor
